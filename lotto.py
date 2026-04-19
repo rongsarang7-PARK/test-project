@@ -7,5 +7,5 @@ def generate_lotto_numbers():
     return lotto_numbers
 
 if __name__ == "__main__":
-    print("✨ 이번 주 추천 로또 번호입니다! ✨")
+    print("🍀 행운의 로또 번호를 생성합니다! 🍀")
     print(generate_lotto_numbers())
